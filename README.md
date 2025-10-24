@@ -9,7 +9,7 @@ A responsive cafe menu webpage built using **HTML** and **CSS** as part of the f
 - Basic typography and color styling  
 
 ## 🔗 Live Demo
-[View on GitHub Pages](https://aqsanazirbuilds.github.io/CafeMenuProject/)
+https://aqsanazirbuilds.github.io/CafeMenuProject/
 
 ## 💻 Code Repository
 https://github.com/AqsaNazirBuilds/CafeMenuProject
